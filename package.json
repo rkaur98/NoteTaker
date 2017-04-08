@@ -1,0 +1,14 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "Note taking app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rupinder",
+  "license": "ISC",
+  "devDependencies": {
+    "surge": "^0.19.0"
+  }
+}
